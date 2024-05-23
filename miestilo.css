@@ -70,7 +70,9 @@ img {
   font-style: italic;
 }
 .content-text {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   text-align: center;
+  line-height: 1.2;
 }
 .logoImg-box {
   width: 300px;
